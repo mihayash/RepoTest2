@@ -1,0 +1,14 @@
+C:\Source\RecvIntent\RecvIntent\RecvIntent\bin\Debug\netstandard2.0\RecvIntent.deps.json
+C:\Source\RecvIntent\RecvIntent\RecvIntent\bin\Debug\netstandard2.0\RecvIntent.dll
+C:\Source\RecvIntent\RecvIntent\RecvIntent\bin\Debug\netstandard2.0\ref\RecvIntent.dll
+C:\Source\RecvIntent\RecvIntent\RecvIntent\bin\Debug\netstandard2.0\RecvIntent.pdb
+C:\Source\RecvIntent\RecvIntent\RecvIntent\obj\Debug\netstandard2.0\RecvIntent.csprojAssemblyReference.cache
+C:\Source\RecvIntent\RecvIntent\RecvIntent\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Source\RecvIntent\RecvIntent\RecvIntent\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Source\RecvIntent\RecvIntent\RecvIntent\obj\Debug\netstandard2.0\RecvIntent.csproj.CoreCompileInputs.cache
+C:\Source\RecvIntent\RecvIntent\RecvIntent\obj\Debug\netstandard2.0\RecvIntent.AssemblyInfoInputs.cache
+C:\Source\RecvIntent\RecvIntent\RecvIntent\obj\Debug\netstandard2.0\RecvIntent.AssemblyInfo.cs
+C:\Source\RecvIntent\RecvIntent\RecvIntent\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Source\RecvIntent\RecvIntent\RecvIntent\obj\Debug\netstandard2.0\RecvIntent.dll
+C:\Source\RecvIntent\RecvIntent\RecvIntent\obj\Debug\netstandard2.0\ref\RecvIntent.dll
+C:\Source\RecvIntent\RecvIntent\RecvIntent\obj\Debug\netstandard2.0\RecvIntent.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yaElnLgQchN+PM2D1mowohqqtWziFR6X/CbwAM/5hPgA+EMm1CggyKBYEva9vfBolbS+aL/gTDTy6Mh/ZkbsgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\RecvIntent\\RecvIntent\\RecvIntent.iOS\\RecvIntent.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mihayash.FAREAST\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mihayash.FAREAST\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\mihayash.FAREAST\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
